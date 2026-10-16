@@ -1,0 +1,11 @@
+/*
+ * Decompiled with CFR 0.0.9 (FabricMC cc05e23f).
+ */
+package com.heypixel.heypixelmod.obsoverlay.a;
+
+public class RuntimeExceptionWithMarkers
+extends RuntimeException {
+    public static Object a;
+    public static Object b;
+}
+
